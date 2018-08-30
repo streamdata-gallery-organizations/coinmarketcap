@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: CoinMarketCap
 x-complete: 1
@@ -878,4 +877,3 @@ paths:
       - Market
       - Metrics
       - (latest)
----
